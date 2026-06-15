@@ -1,4 +1,4 @@
-# 🛒 Sales Revenue Forecasting — ML Project
+#  Sales Revenue Forecasting — ML Project
 
 <div align="center">
 
@@ -87,7 +87,7 @@ sales-forecast-ml/
 
 ---
 
-## 📈 Key Charts & Insights
+##  Key Charts & Insights
 
 ### 1. Monthly Revenue Trend
 ![Monthly Trend](outputs/chart1_monthly_trend.png)
@@ -235,13 +235,6 @@ Inference — predict new transactions
 
 ---
 
-## 👩‍💻 Author
-
-**Tanisha Gupta** — Python Developer · AI & Backend · Data Analytics
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanishagupta--g-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tanishagupta-g)
-[![GitHub](https://img.shields.io/badge/GitHub-ajcstanu-181717?style=flat-square&logo=github)](https://github.com/ajcstanu)
-[![Email](https://img.shields.io/badge/Email-tanishaguptacse@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:tanishaguptacse@gmail.com)
 
 ---
 
