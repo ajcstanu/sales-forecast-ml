@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This end-to-end machine learning project forecasts **net retail revenue** from structured transaction data spanning 3 years (2021–2024). It covers the complete data science pipeline — from EDA and feature engineering to model training, evaluation, and inference.
 
@@ -65,7 +65,7 @@ sales-forecast-ml/
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 
 | Feature | Type | Description |
 |---------|------|-------------|
