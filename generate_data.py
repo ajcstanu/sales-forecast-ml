@@ -1,8 +1,3 @@
-"""
-generate_data.py
-Generates a realistic synthetic retail sales dataset.
-"""
-
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
