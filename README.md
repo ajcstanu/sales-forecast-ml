@@ -177,7 +177,7 @@ print(f'Predicted Net Revenue: ₹{predicted:,.2f}')
 
 ---
 
-## 🧠 ML Pipeline
+##  ML Pipeline
 
 ```
 Raw Data (CSV)
