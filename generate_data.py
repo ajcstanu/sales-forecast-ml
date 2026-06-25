@@ -5,7 +5,7 @@ import random
 
 np.random.seed(42)
 random.seed(42)
-
+# Here I did listing
 REGIONS     = ["North", "South", "East", "West"]
 CATEGORIES  = ["Electronics", "Clothing", "Groceries", "Home & Kitchen", "Sports"]
 PRODUCTS    = {
