@@ -32,7 +32,7 @@ This end-to-end machine learning project forecasts **net retail revenue** from s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sales-forecast-ml/
