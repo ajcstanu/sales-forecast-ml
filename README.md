@@ -138,7 +138,7 @@ sales-forecast-ml/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repository
 ```bash
@@ -222,7 +222,7 @@ Inference — predict new transactions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -240,6 +240,6 @@ Inference — predict new transactions
 
 <div align="center">
 
-⭐ **If this project helped you, please give it a star!** ⭐
+ **If this project helped you, please give it a star!** 
 
 </div>
