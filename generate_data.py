@@ -1,4 +1,4 @@
-# In my code i use this generate data 
+# this code for generate_data
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
